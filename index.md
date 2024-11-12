@@ -4,14 +4,16 @@
 
 layout: home
 
-title: "About me"
+title: "Alberto Torralba"
+subtitle: Observational extragalactic astrophysics
 share-title: "Alberto Torralba - Home"
-
+share-description: "Astronomer. Post-doctoral researcher in observational extragalaxtic astrophysics."
+support-promo-box: true
 cover-img:
     - "assets/images/COLA1_bubbles.png"
 ---
 
-# Extragalactic astrophysics researcher
+# About me
 
 Hi! I’m **Alberto Torralba Torregrosa**, a postdoctoral researcher currently based in Vienna. Originally from Valencia, Spain, I completed my Bachelor's in Physics, as well as my Master’s and PhD, at the Universitat de València. My research focuses on observational extragalactic astrophysics, especially on young, star-forming galaxies and active galactic nuclei (AGN) from the cosmic dawn to cosmic noon.
 
