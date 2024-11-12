@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "CV"
+meta_title: "Alberto Torralba - CV"
 permalink: /CV/
 ---
 
