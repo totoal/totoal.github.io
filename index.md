@@ -18,7 +18,7 @@ Outside of science, I’m passionate about movies and love going to the cinema w
 - 📧 [ttalbertott@gmail.com](mailto:ttalbertott@gmail.com)
 - [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0001-5586-6950](https://orcid.org/0000-0001-5586-6950)
 - 𝕏 [@ATorralbaT](https://twitter.com/yourusername)
-- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png) totoal](https://github.com/totoal)
+- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) totoal](https://github.com/totoal)
 
 
 ---
