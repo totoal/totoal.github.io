@@ -4,7 +4,7 @@
 
 layout: home
 
-title: "Alberto Torralba"
+title: "About me"
 ---
 
 # Extragalactic astrophysics researcher
