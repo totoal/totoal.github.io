@@ -9,16 +9,14 @@ title: "Alberto Torralba"
 
 # Extragalactic astrophysics researcher
 
-Hi! My name is Alberto Torralba Torregrosa. I'm a post-doctoral researcher currently based in Vienna. I was born in Valencia, Spain,and obtained my Bachelor's degree in Physics, Master's and PhD in Universitat de València. My field of research is Observational extragalactic astrophysics. In particular, observations of young star-forming galaxies and AGN from cosmic dawn to noon.
+Hi! I’m Alberto Torralba Torregrosa, a postdoctoral researcher currently based in Vienna. Originally from Valencia, Spain, I completed my Bachelor's in Physics, as well as my Master’s and PhD, at the Universitat de València. My research focuses on observational extragalactic astrophysics, especially on young, star-forming galaxies and active galactic nuclei (AGN) from the cosmic dawn to cosmic noon.
 
-Apart from science, I love movies. I go to the cinema everytime I can. In my spare time I also play electric guitar and bass.
-
-# ![Your Photo](/assets/images/yo2_crop.jpg)
+Outside of science, I’m passionate about movies and love going to the cinema whenever I can. In my free time, I also play electric guitar and bass.
 
 ## Connect with Me
 
-- 📧 [E-mail:](mailto:your.email@example.com)
-- 🐦 [Twitter](https://twitter.com/yourusername)
+- 📧 **E-mail**: [ttalbertott@gmail.com](mailto:ttalbertott@gmail.com)
+- 𝕏 **Twitter**: [ATorralbaT](https://twitter.com/yourusername)
 
 
 ---
