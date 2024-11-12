@@ -37,6 +37,13 @@ plugins:
 # INDEX
 index_page: "about-me"
 
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /CV/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
