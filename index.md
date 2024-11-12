@@ -6,6 +6,9 @@ layout: home
 
 title: "About me"
 share-title: "Alberto Torralba - Home"
+
+cover-img:
+    - "assets/images/COLA1_bubbles.png"
 ---
 
 # Extragalactic astrophysics researcher
