@@ -93,6 +93,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  
+  
+keywords: "astronomy,astrophysics,extragalactic,torralba,researcher,galaxy"
 
 
 
