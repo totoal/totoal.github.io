@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alberto Torralba Torregrosa
+title: Alberto Torralba
 email: ttalbertott@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Alberto Torralba Torregrosa, astronomer and researcher in extra-galactic astronomy.
