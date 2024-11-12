@@ -17,6 +17,7 @@ Outside of science, I’m passionate about movies and love going to the cinema w
 
 - 📧 **E-mail**: [ttalbertott@gmail.com](mailto:ttalbertott@gmail.com)
 - 𝕏 **Twitter**: [ATorralbaT](https://twitter.com/yourusername)
+- ORCiD [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-5586-6950)
 
 
 ---
