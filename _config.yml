@@ -36,7 +36,7 @@ index_page: "about-me"
 
 # Navigation bar links
 navbar-links:
-  CV: "curriculum"
+  CV: "CV"
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
