@@ -10,7 +10,7 @@ share-title: "Alberto Torralba - Home"
 share-description: "Astronomer. Post-doctoral researcher in observational extragalaxtic astrophysics."
 support-promo-box: true
 cover-img:
-    - "assets/images/COLA1_bubbles.png"
+    - "assets/images/COLA1_bubbles.jpg"
 ---
 
 # About me
