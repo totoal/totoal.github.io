@@ -19,6 +19,8 @@ Hi! I’m **Alberto Torralba Torregrosa**, a postdoctoral researcher currently b
 
 Outside of science, I’m passionate about movies and love going to the cinema whenever I can. In my free time, I also play electric guitar and bass.
 
+![Alberto Torralba](assets/images/yo2_crop.jpg)
+
 ## Connect with Me
 
 - 📧 [ttalbertott@gmail.com](mailto:ttalbertott@gmail.com)
