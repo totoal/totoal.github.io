@@ -15,7 +15,7 @@ cover-img:
 
 # About me
 
-Hi! I’m **Alberto Torralba Torregrosa**, a postdoctoral researcher at the Institute of Science and Technology Austria (ISTA). Originally from Valencia, Spain, I completed my Bachelor's, Master’s, and PhD in Physics at the Universitat de València. My research focuses on observational extragalactic astrophysics, with an emphasis on young, star-forming galaxies and active galactic nuclei (AGN) from the cosmic dawn to cosmic noon.
+Hi! I’m **Alberto Torralba Torregrosa**, a postdoctoral researcher in [Jorrty Matthee's group](https://jmatthee.github.io/ista-xgal/) at the Institute of Science and Technology Austria (ISTA). Originally from Valencia, Spain, I completed my Bachelor's, Master’s, and PhD in Physics at the Universitat de València. My research focuses on observational extragalactic astrophysics, with an emphasis on young, star-forming galaxies and active galactic nuclei (AGN) from the cosmic dawn to cosmic noon.
 
 Outside of science, I’m passionate about movies and love going to the cinema whenever I can. In my free time, I also play electric guitar and bass.
 
