@@ -25,7 +25,7 @@ Outside of science, I’m passionate about movies and love going to the cinema w
 
 - 📧 [alberto.torralba@ista.ac.at](mailto:alberto.torralba@ista.ac.at)
 - [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0001-5586-6950](https://orcid.org/0000-0001-5586-6950)
-- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) totoal](https://github.com/totoal)
+- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/1/10/Codicons_%E2%80%93_github-inverted.svg) totoal](https://github.com/totoal)
 
 
 ---
