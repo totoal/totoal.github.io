@@ -5,20 +5,10 @@ share-title: "Alberto Torralba - My work"
 permalink: /CV/
 ---
 
-# Highlighted Publications
+# Recent Publications
 
 ---
 
-### *A Black Hole Star at Cosmic Noon: Extreme Balmer break, photospheric continuum, and broad absorption by thick winds in a Little Red Dot at z=1.7*
-[arXiv:2603.28335](https://arxiv.org/abs/2603.28335)
-
-We presented a newly discovered Little Red Dot with an extreme Balmer break, comparable to the strongest found so far, at a redshift of z=1.731. We confirmed the redshift via VLT/X-Shooter spectroscopy of the H-alpha line. I had the amazing opportunity to carry out these observations at Paranal (Chile) in person, and this paper was the result of that.
-
-<p align="center">
-<img src="/assets/images/PAN-BHS.jpg" alt="Photometry of the extreme Little Red Dot PAN-BH*-1" width="100%"/>
-</p>
-
----
 
 ### *The warm outer layer of a Little Red Dot as the source of [Fe&nbsp;II] and collisional Balmer lines with scattering wings*
 [arXiv:2510.00103](https://arxiv.org/abs/2510.00103)
