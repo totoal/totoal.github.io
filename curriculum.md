@@ -43,7 +43,7 @@ Using data from the VLT/MUSE spectrometer, we studied the Lyman-alpha extended e
 ---
 
 ## Find my full list of publications here:
-- [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A(%22Torralba-Torregrosa%2C%20Alberto%22%20OR%20%22Torralba%2C%20Alberto%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+- [NASA/ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22Torralba-Torregrosa%2C%20Alberto%22%20OR%20%22Torralba%2C%20Alberto%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 - [ORCiD](https://orcid.org/0000-0001-5586-6950)
 
 <!--
